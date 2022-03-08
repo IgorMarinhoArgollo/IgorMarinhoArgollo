@@ -7,7 +7,7 @@
  I'm a also a former :construction_worker:Civil Engineer and a :hocho:Chef de Cousine on my free time.
  
 ## 🌱 What I'm studing today?
- :heavy_check_mark: Fundamentals of Web Development on Trybe;<br>
+ :heavy_check_mark: Web Development Fundamentals on Trybe;<br>
  :heavy_check_mark: Front-End Couse on Trybe;<br>
  :pushpin: Back-End Course on Trybe;<br>
  :pushpin: Computer Science Course on Trybe.<br>
