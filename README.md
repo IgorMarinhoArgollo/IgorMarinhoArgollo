@@ -1,10 +1,10 @@
 # Hi, I'm Igor Marinho. :v:
   Curious by nature, web developer by passion.
-
+  
 ## 🤔 Who am I?
  I am a **full-stack web developer** student ready to help you out.
  <br>
- I'm a also a former :construction_worker:Civil Engineer and a :hocho:Chef de Cousine on my free time.
+ Civil engineer by degree who, due to passion for programming, decided, in June 2021, to make the career transition to become a programmer.
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
