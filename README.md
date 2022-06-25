@@ -2,7 +2,7 @@
   Curious by nature, web developer by passion.
   
   <details>
-  <summary><strong>:brazil: Português</strong></summary>
+  <summary><h2>:brazil: Português</h2></summary>
  
  ## 🤔 Quem sou eu?
  Sou um estudante de **Desenvolvimento Web Full Stack** pronto para atender.
