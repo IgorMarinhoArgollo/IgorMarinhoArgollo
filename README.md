@@ -2,9 +2,10 @@
   Curious by nature, web developer by passion.
   
 ## 🤔 Who am I?
- I am a **full-stack web developer** student ready to help you out.
+ I am a **Full Stack Web Developer** student ready to help you out.
  <br>
- Civil engineer by degree who, due to passion for programming, decided, in June 2021, to make the career transition to become a programmer.
+ Civil engineer by degree who, due to passion for programming, decided, in June 2021, to make the career transition to become a Full Stack Web Developer. <br>
+ I've already completed the Fundamentals and Frontend Course. Now I'm finishing the Backend Course.
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
