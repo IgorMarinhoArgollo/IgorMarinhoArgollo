@@ -50,7 +50,7 @@
   
   ##
   
-  Agradecimento especial para <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> por ajudar com o GitHub Status, <a href="https://github.com/devicons/devicon">Konpa</a> com os ícones de tecnologia e <a href="https://github.com/MikeCodesDotNET/ColoredBadges">Mike James</a> pelos ícones de contato.
+  Agradecimento especial para <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> por ajudar com o GitHub Status e <a href="https://github.com/devicons/devicon">Konpa</a> com os ícones de tecnologia
   </details>
   
  ## 🤔 Who am I?
@@ -99,6 +99,6 @@
   
   ##
   
-  Special thanks to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> for the help with GitHub Status, <a href="https://github.com/devicons/devicon">Konpa</a> with technologies icons and <a href="https://github.com/MikeCodesDotNET/ColoredBadges">Mike James</a> for the contact icons.
+  Special thanks to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> for the help with GitHub Status and <a href="https://github.com/devicons/devicon">Konpa</a> with technologies icons.
   
 
