@@ -8,6 +8,7 @@
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a>
+ :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a>
   
  
 ## 🌱 What I'm studing today?
