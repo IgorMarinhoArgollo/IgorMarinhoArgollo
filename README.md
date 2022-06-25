@@ -2,8 +2,9 @@
   Curious by nature, web developer by passion. / Curioso por natureza, desenvolvedor por paixão.
   
   <details>
-  <summary><strong>:us: English </strong></summary><br>
-  ## 🤔 Who am I?
+  <summary><strong>:us: English </strong></summary>
+  
+ ## 🤔 Who am I?
  I am a **Full Stack Web Developer** student ready to help you out.
  <br>
  Civil engineer by degree who, due to passion for programming, decided, in June 2021, to make the career transition to become a Full Stack Web Developer. <br>
@@ -60,9 +61,10 @@
   </details>
   
   <details>
-  <summary><strong>:brazil: Português</strong></summary><br>
-    ## 🤔 Quem sou eu?
- Sou um estudante de**Desenvolvimento Web Full Stack** pronto para atender.
+  <summary><strong>:brazil: Português</strong></summary>
+ 
+ ## 🤔 Quem sou eu?
+ Sou um estudante de **Desenvolvimento Web Full Stack** pronto para atender.
  <br>
  Engenheiro civil graduado, que por paixão pela programação decidiu, em Junho de  2021, fazer a transição de carreira para me tornar um Desenvolvedor Full Stack. <br>
  Já completei o curso de Fundamentos de programação e de Frontend. Hoje, estou terminando o curso de Backend.
