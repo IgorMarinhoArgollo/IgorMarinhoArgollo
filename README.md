@@ -9,7 +9,7 @@
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
- :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a>
+ :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a><br>
  :computer: <a href="https://igor-marinho.netlify.app/"> igor-marinho.netlify.app><a>
   
  
