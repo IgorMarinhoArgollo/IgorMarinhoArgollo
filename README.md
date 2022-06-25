@@ -6,6 +6,10 @@
  <br>
  I'm a also a former :construction_worker:Civil Engineer and a :hocho:Chef de Cousine on my free time.
  
+## :phone: How to contact me?
+ :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a>
+  
+ 
 ## 🌱 What I'm studing today?
  :heavy_check_mark: Web Development Fundamentals on Trybe;<br>
  :heavy_check_mark: Front-End Couse on Trybe;<br>
@@ -32,8 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarinhoArgollo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-## :phone: How to contact me?
- email:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a>
   
   ##
   
