@@ -7,7 +7,7 @@
  I'm a also a former :construction_worker:Civil Engineer and a :hocho:Chef de Cousine on my free time.
  
 ## :phone: How to contact me?
- :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a>
+ :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
  :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a>
   
  
