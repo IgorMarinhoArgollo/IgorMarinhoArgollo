@@ -14,10 +14,14 @@
   
  
 ## 🌱 What I'm studing today?
- :heavy_check_mark: Web Development Fundamentals on Trybe;<br>
- :heavy_check_mark: Front-End Couse on Trybe;<br>
- :pushpin: Back-End Course on Trybe;<br>
- :pushpin: Computer Science Course on Trybe.<br>
+ :heavy_check_mark: <b>Web Development Fundamentals</b> on Trybe;<br>
+ :heavy_check_mark: <b>Front-End Couse</b> on Trybe;<br>
+ :pushpin: <b>Back-End Course</b> on Trybe;<br>
+ :pushpin: <b>Computer Science Course</b> on Trybe.<br>
+  
+## :trophy: Awards
+  :3rd_place_medal: <b>Campus Party Hackaton - RNP Challenge</b> <br>
+     I've developed some features for increase accessibility of a government video platform as: colorblind filters, keyboard and speak navigation, dark mode, and font size personal adjustment.
   
 ## :notebook: What technologies did I study?
 <div display="flex">
