@@ -10,7 +10,8 @@
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
  :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a><br>
- :computer: <a href="https://igor-marinho.netlify.app/"> igor-marinho.netlify.app<a>
+ :computer: <a href="https://igor-marinho.netlify.app/"> igor-marinho.netlify.app<a><br>
+ 📄 <a href="CV - Igor Marinho - Dev.pdf" download> Curriculum<a>
   
  
 ## 🌱 What I'm studing today?
