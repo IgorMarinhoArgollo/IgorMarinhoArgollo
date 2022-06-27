@@ -5,9 +5,9 @@
   <summary><h2>:brazil: Português</h2></summary>
  
  ## 🤔 Quem sou eu?
- Sou um estudante de **Desenvolvimento Web Full Stack** pronto para atender.
+ Sou um **Desenvolvedor Web Full Stack** em treinamento.
  <br>
- Engenheiro civil graduado, que por paixão pela programação decidiu, em Junho de  2021, fazer a transição de carreira para me tornar um Desenvolvedor Full Stack. <br>
+ Engenheiro civil que decidiu seguir a sua paixão pela programação e, em Junho de  2021, iniciou a sua transição de carreira para me tornar um Desenvolvedor Full Stack. <br>
  
 ## :phone: Como me contactar?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
