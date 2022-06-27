@@ -67,7 +67,7 @@
   
 ## :trophy: Awards:
   :3rd_place_medal: <b>Campus Party Hackaton in Goiás - RNP Challenge</b> <br>
-     I worked to imporve the acessibility of a government cideo platform by developing features such: colorblind filters, keyboard and voice-activated navigation, dark mode, and font size personal adjustment.
+     I worked to improve the acessibility of a government cideo platform by developing features such: colorblind filters, keyboard and voice-activated navigation, dark mode, and font size personal adjustment.
   
 ## :notebook: What technologies did I study?
 <div display="flex">
