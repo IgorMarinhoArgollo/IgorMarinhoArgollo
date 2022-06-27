@@ -54,9 +54,9 @@
   </details>
   
  ## 🤔 Who am I?
- I am a **Full Stack Web Developer** student ready to help you out.
+ I am a **Full Stack Web Developer** in training.
  <br>
- Civil engineer by degree who, due to passion for programming, decided, in June 2021, to make the career transition to become a Full Stack Web Developer. <br>
+ A civil engineer who decided to pursue his passion for programming and, in June 2021, started a career transition to become a Developer. <br>
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
@@ -67,7 +67,7 @@
   
 ## :trophy: Awards:
   :3rd_place_medal: <b>Campus Party Hackaton in Goiás - RNP Challenge</b> <br>
-     I've developed some features for increase accessibility of a government video platform as: colorblind filters, keyboard and speak navigation, dark mode, and font size personal adjustment.
+     I worked to imporve the acessibility of a government cideo platform by developing features such: colorblind filters, keyboard and voice-activated navigation, dark mode, and font size personal adjustment.
   
 ## :notebook: What technologies did I study?
 <div display="flex">
