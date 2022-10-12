@@ -5,7 +5,7 @@
   <summary><h2>:brazil: Português</h2></summary>
  
  ## 🤔 Quem sou eu?
- Sou um **Desenvolvedor Web Full Stack** em treinamento.
+ Sou um **Desenvolvedor Web Full Stack**.
  <br>
  Engenheiro civil que decidiu seguir a sua paixão pela programação e, em Junho de  2021, iniciou a sua transição de carreira para me tornar um Desenvolvedor Full Stack. <br>
  
@@ -54,7 +54,7 @@
   </details>
   
  ## 🤔 Who am I?
- I am a **Full Stack Web Developer** in training.
+ I am a **Full Stack Web Developer**.
  <br>
  A civil engineer who decided to pursue his passion for programming and, in June 2021, started a career transition to become a Developer. <br>
  
