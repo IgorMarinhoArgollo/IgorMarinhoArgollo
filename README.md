@@ -16,11 +16,11 @@
  📄 <a href="CV - Igor Marinho - Dev_en.pdf" download> Resume<a>
  
   
-## :trophy: Awards:
+## :trophy: Awards
   :3rd_place_medal: <b>Campus Party Hackaton in Goiás - RNP Challenge</b> <br>
      I worked to improve the acessibility of a government cideo platform by developing features such: colorblind filters, keyboard and voice-activated navigation, dark mode, and font size personal adjustment.
   
-## :notebook: What technologies did I study?
+## :notebook: What technologies did I have experience with?
 <div display="flex">
 <img alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -63,11 +63,11 @@
  📄 <a href="CV - Igor Marinho - Dev.pdf" download> Currículo <a>
 
   
-## :trophy: Prêmios:
+## :trophy: Prêmios
   :3rd_place_medal: <b>Hackaton do Campus Party Goiás- Desafio RNP</b> <br>
      Desenvolvi funcionalidades para aumentar acessibilidade em uma plataforma de vídeos do governo, sendo elas: filtros para portadores de daltonismo, navegação por voz e por teclado, modo noturno e ajuste personalizado de tamanho de fonte.
   
-## :notebook: Quais as tecnologias eu estudei?
+## :notebook: Quais as tecnologias eu tive experiência?
 <div display="flex">
 <img alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
