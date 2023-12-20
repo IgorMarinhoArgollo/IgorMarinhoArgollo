@@ -5,9 +5,7 @@
   <summary><h2>:us: English</h2></summary>
     
  ## 🤔 Who am I?
- I am a **Full Stack Web Developer**.
- <br>
- A civil engineer who decided to pursue his passion for programming and, in June 2021, started a career transition to become a Developer. <br>
+ Today, I am a **Full Stack Web Developer** who, at the end of 2021, rediscovered myself in the field of development after a career transition.<br><br>Recently, I worked at an British startup, but global conflicts impacted our team, and we were forced to stop operations. Now, I am actively seeking new opportunities in the development market.<br>
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
@@ -53,8 +51,7 @@
   </details>
   
  ## 🤔 Quem sou eu? <br>
- Sou um **Desenvolvedor Web Full Stack**. <br>
- Engenheiro civil que decidiu seguir a sua paixão pela programação e, em Junho de  2021, iniciou a sua transição de carreira para me tornar um Desenvolvedor Full Stack. <br>
+ Hoje eu sou um **Desenvolvedor Web Full Stack**, que no final de 2021, após uma transição de carreira, se reencontrou na área de desenvolvimento.<br><br>Recentemente trabalhei em uma startup inglesa, mas as guerras do mundo impactaram o nosso time e fomos obrigados a interromper as atividades. Hoje busco recolocação no mercado de desenvolvimento. <br>
  
 ## :phone: Como me contactar?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
