@@ -11,7 +11,7 @@
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
  :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a><br>
  :computer: <a href="https://igor-marinho.netlify.app/"> igor-marinho.netlify.app<a><br>
- 📄 <a href="CV - Igor Marinho - Dev_en.pdf" download> Resume<a>
+ 📄 <a href="CV-Igor-Marinho-Dev_en.pdf" download> Resume<a>
  
   
 ## :trophy: Awards
@@ -57,7 +57,7 @@
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
  :briefcase: <a href="https://www.linkedin.com/in/igormarinhoargollo/"> linkedin.com/in/igormarinhoargollo<a><br>
  :computer: <a href="https://igor-marinho.netlify.app/"> igor-marinho.netlify.app<a><br>
- 📄 <a href="CV - Igor Marinho - Dev.pdf" download> Currículo <a>
+ 📄 <a href="CV-Igor-Marinho-Dev.pdf" download> Currículo <a>
 
   
 ## :trophy: Prêmios
