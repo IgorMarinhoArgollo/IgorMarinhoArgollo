@@ -5,7 +5,7 @@
   <summary><h2>:us: English</h2></summary>
     
  ## 🤔 Who am I?
- Today, I am a **Full Stack Web Developer** who, at the end of 2021, rediscovered myself in the field of development after a career transition.<br><br>Recently, I worked at an British startup, but global conflicts impacted our team, and we were forced to stop operations. Now, I am actively seeking new opportunities in the development market.<br>
+ I am a **Full Stack Web Developer** at HollyHR who loves swimming, cooking and technology.<br>
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
@@ -51,7 +51,7 @@
   </details>
   
  ## 🤔 Quem sou eu? <br>
- Hoje eu sou um **Desenvolvedor Web Full Stack**, que no final de 2021, após uma transição de carreira, se reencontrou na área de desenvolvimento.<br><br>Recentemente trabalhei em uma startup inglesa, mas as guerras do mundo impactaram o nosso time e fomos obrigados a interromper as atividades. Hoje busco recolocação no mercado de desenvolvimento. <br>
+ Sou um **Desenvolvedor Web Full Stack** na HollyHR que ama nadar, cozinhar e tecnologia. <br>
  
 ## :phone: Como me contactar?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
