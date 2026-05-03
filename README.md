@@ -5,7 +5,7 @@
   <summary><h2>:us: English</h2></summary>
     
  ## 🤔 Who am I?
- I am a **Full Stack Web Developer** at HollyHR who loves swimming, cooking and technology.<br>
+ I am a **Full Stack Web Developer** at WTF who loves swimming, cooking and technology.<br>
  
 ## :phone: How to contact me?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
@@ -24,7 +24,7 @@
   </details>
   
  ## 🤔 Quem sou eu? <br>
- Sou um **Desenvolvedor Web Full Stack** na HollyHR que ama nadar, cozinhar e tecnologia. <br>
+ Sou um **Desenvolvedor C#** na Wtf que ama nadar, cozinhar e tecnologia. <br>
  
 ## :phone: Como me contactar?
  :envelope:<a mailto="igormarinhoargollo@gmail.com"> igormarinhoargollo@gmail.com<a> <br>
